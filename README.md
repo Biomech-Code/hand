@@ -9,7 +9,6 @@ This Python script uses **OpenCV** and **Mediapipe** to detect and track hand la
 - Real-time hand detection using Mediapipe's Hands solution.
 - Displays hand landmarks and connections on the video feed.
 - Calculates and displays FPS (Frames Per Second).
-- Displays a custom message overlay on the video feed, including an Instagram handle and author credits.
 
 ---
 
