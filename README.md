@@ -56,9 +56,6 @@ fps = 1 / (cTime - pTime)
 pTime = cTime
 ```
 
-### Overlay Message
-Custom text, including the Instagram handle `@biomechanicsandcode` and author credit `Code by Edilson Borba`, is displayed at the bottom of the video feed.
-
 ---
 
 ## Example Output
